@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-peliculas-reactjs/build/static/css/main.2628c207.css",
+    "main.js": "/web-peliculas-reactjs/build/static/js/main.09451705.js",
+    "index.html": "/web-peliculas-reactjs/build/index.html",
+    "main.2628c207.css.map": "/web-peliculas-reactjs/build/static/css/main.2628c207.css.map",
+    "main.09451705.js.map": "/web-peliculas-reactjs/build/static/js/main.09451705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2628c207.css",
+    "static/js/main.09451705.js"
+  ]
+}
